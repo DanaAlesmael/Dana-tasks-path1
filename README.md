@@ -12,3 +12,4 @@ In General, various factors such as weight, cost, and so on were kept in mind wh
 * The robot name (Poppy) was shortaged to PoB and was printed on the side to avoid problems. 
 
 ** One important thing to note: The designs were done without paying attention to the right dimenssions for now and this is because the purpose of this task was taken as a learning tool and to familarize myself to the program. Short explanation can be found under each uploaded part. 
+* More information about the motors and joints can be found in their specific folders. 
